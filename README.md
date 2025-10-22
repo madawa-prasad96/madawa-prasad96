@@ -2,8 +2,8 @@
 
 ### 💻 Full Stack Engineer | React | NestJS | TypeScript | PostgreSQL | AWS
 
-I'm a passionate software engineer who loves building scalable, efficient, and user-friendly web applications.  
-I have hands-on experience in **fintech systems**, **reward platforms**, and **API-driven applications** — mainly using **React** and **NestJS**.
+I'm a passionate software engineer who loves building scalable, efficient, and user friendly web applications.  
+I have hands-on experience in **fintech systems**, **reward platforms**, and **API-driven applications** - mainly using **React** and **NestJS**.
 
 ---
 
