@@ -1,18 +1,38 @@
-### Hi there 👋
+# 👋 Hi, I'm Madawa Prasad
 
-<!--
-**madawa-prasad96/madawa-prasad96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack Engineer | React | NestJS | TypeScript | PostgreSQL | AWS
 
-Here are some ideas to get you started:
+I'm a passionate software engineer who loves building scalable, efficient, and user-friendly web applications.  
+I have hands-on experience in **fintech systems**, **reward platforms**, and **API-driven applications** — mainly using **React** and **NestJS**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madawa-prasad96&show_icons=true&theme=gruvbox)[![GitHub Streak](https://streak-stats.demolab.com/?user=madawa-prasad96&theme=dark)](https://git.io/streak-stats)<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madawa-prasad96&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+### 🚀 What I Do
+- ⚛️ Frontend Development — React, Vite, TypeScript, Tailwind CSS  
+- 🧠 Backend Development — NestJS, Prisma, PostgreSQL  
+- ☁️ Cloud & DevOps — AWS, GitHub Actions  
+
+---
+
+### 🧰 Tech Stack
+| Category | Tools / Frameworks |
+|-----------|--------------------|
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS |
+| **Backend** | NestJS, Node.js, Prisma ORM |
+| **Database** | PostgreSQL, Redis |
+| **DevOps / Cloud** | AWS |
+| **Others** | Git, REST APIs, GraphQL (Basics) |
+
+---
+
+### 🌱 Currently Learning
+- Improving system design and backend architecture skills  
+- Deep diving into AWS and scalable deployment practices  
+
+---
+
+### 📫 Let's Connect
+- 🌍 [Portfolio Website](https://madawa-prasad96.github.io/my-portfolio/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/madawa-prasad/)  
+- 📧 wdmprasad96@gmail.com
+
